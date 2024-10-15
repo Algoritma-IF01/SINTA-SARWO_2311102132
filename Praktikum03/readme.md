@@ -304,7 +304,7 @@ Kesalahan dari program tersebut terhadap pengunaan variabel, di dalam program na
 Alur program seharusnya:<br/>
 1. input nilai akhir -> nam
 2. menentukan nilai huruf berdasarkan nilai numerik menggunakan struktur if, else if, dan else.
-3. nmk <- '(Nilai huruf), nmk menyimpan data string
+3. nmk <- '(Nilai huruf)', nmk menyimpan data string
 4. menampilkan output yang benar, yaitu nilai huruf.
 
 
