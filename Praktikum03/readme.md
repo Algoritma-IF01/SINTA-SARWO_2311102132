@@ -300,10 +300,9 @@ Dari screenshot di atas output dari program tidak sesuai spesifikasi soal. Meski
 2. Apa saja kesalahan dari program tersebut? Mengapa demikian? Jelaskan alur program seharusnya!
 - Jawaban: <br/>
 Kesalahan dari program tersebut terhadap pengunaan variabel, di dalam program nam menjadi menyimpan tipe data string sedangkan ia di deklarasikan sebagai variabel yang menyimpan tipe data float64. Karena itu variabel nmk tidak digunakan hanya di cetak yang saat dicetak tidak memiliki nilai. <br/>
+Pengunaan percabangaan yang kurang efektif, dalam program dapat menggunakan if, else if, else untuk setiap pemeriksaan nilai. <br/>
 
-Pengunaan percabangaan yang kurang efektif, dalam program dapat menggunakan if, else if, else untuk setiap pemeriksaan nilai.
-
-Alur program seharusnya:
+Alur program seharusnya:<br/>
 1. input nilai akhir -> nam
 2. menentukan nilai huruf berdasarkan nilai numerik menggunakan struktur if, else if, dan else.
 3. nmk <- '(Nilai huruf), nmk menyimpan data string
