@@ -294,7 +294,7 @@ func main(){
 1. Jika **nam** adaah 80.1, apa keluaran dari program tersebut? Apakah eksekusi program tersebut sesuai spesifikasi soal?
 - Jawaban: <br/>
 ![Screenshot Output Latihan 4](Output-Golang-Percabangan2A_Sinta.png)
-Dari screenshot di atas output dari program tidak sesuai spesifikasi soal. Meskipun program tidak error, tetapi saat mencetak variabel nmk tidak akan menunjukkan nilai yang karena belum menyimpan data apapun.
+Dari screenshot di atas output dari program tidak sesuai spesifikasi soal. Meskipun program saat di run tidak error, tetapi saat mencetak variabel nmk tidak akan menunjukkan nilai yang karena belum menyimpan data apapun.
 
 
 2. Apa saja kesalahan dari program tersebut? Mengapa demikian? Jelaskan alur program seharusnya!
